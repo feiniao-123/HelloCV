@@ -1,4 +1,4 @@
-第三周语雀文档分为两篇，一篇为四千字的open CV的学习与学习当中自己的思考，另一篇为两千字的实践任务的思考记录。第三周实践任务（辨认交通灯）上传在文件夹《opencv_test》中，《opencv_test》文件夹里面分为build文件夹，main.cpp，rusult.avi（结果视频），与TrafficLight.avi文件（源视频的avi格式），如果学长学姐想要测试代码，我已经main.cpp里的输出名字改成result1.avi格式，以免与result.avi产生冲突
+第三周语雀文档分为两篇，一篇为四千字的open CV的学习与学习当中自己的思考，另一篇为两千字的实践任务的思考记录。第三周实践任务（辨认交通灯）上传在文件夹《opencv_test》中，《opencv_test》文件夹里面分为build文件夹，main.cpp，rusult.avi（结果视频），与TrafficLight.avi文件（源视频的avi格式），如果学长学姐想要测试代码，我已经main.cpp里的输出文件名字改成result1.avi，以免与result.avi产生冲突
 
 
 
